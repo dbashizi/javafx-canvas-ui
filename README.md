@@ -1,0 +1,3 @@
+# javafx-canvas-ui
+
+This is a sample readme for today's lecture ... 
